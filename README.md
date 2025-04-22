@@ -1,47 +1,45 @@
-# proyek-puzzle
-https://puzzel.org/id/jigsaw/play?p=-ONrfg-RSTyMKBOjCecH
-🎯 Tujuan Pembelajaran
-Tujuan utama dari puzzle ini adalah:​
+# 🧩 Proyek Puzzle Hewan: Kelinci 🐰  
+*Kelas 2 Sekolah Dasar*
 
-Meningkatkan keterampilan kognitif: Siswa dilatih untuk berpikir kritis dan memecahkan masalah dengan menyusun potongan gambar menjadi utuh.​
-ejournal.unma.ac.id
-+5
-repository.uksw.edu
-+5
-ResearchGate
-+5
+Selamat datang di proyek pembelajaran menyenangkan bersama puzzle jigsaw bertema **Hewan Kelinci**! Proyek ini dirancang untuk membantu siswa mengembangkan kemampuan kognitif, motorik halus, dan pemahaman tentang hewan di sekitar mereka melalui permainan edukatif.
 
-Meningkatkan konsentrasi: Proses menyusun puzzle membutuhkan fokus dan perhatian terhadap detail.​
-puzzel.org
+---
 
-Meningkatkan kerjasama: Jika dimainkan dalam kelompok, siswa dapat belajar bekerja sama dan berkomunikasi efektif.​
-ResearchGate
+## 🎯 Tujuan Pembelajaran
 
-Meningkatkan motivasi belajar: Pendekatan berbasis permainan dapat membuat pembelajaran lebih menyenangkan dan menarik bagi siswa. ​
+- Mengenal ciri-ciri hewan kelinci secara visual.
+- Melatih koordinasi mata dan tangan serta keterampilan motorik halus.
+- Mengembangkan kemampuan berpikir logis dan pemecahan masalah.
+- Membiasakan anak untuk fokus dan teliti dalam menyelesaikan tugas.
 
-🧩 Cara Penggunaan
-Berikut adalah langkah-langkah untuk memainkan puzzle ini:​
-Akses Puzzle: Kunjungi tautan puzzle yang telah Anda bagikan.​
+---
 
-Pilih Gambar: Pilih gambar yang ingin Anda jadikan puzzle. Gambar ini akan dipotong menjadi beberapa bagian.​
+## 🖼️ Puzzle Jigsaw Kelinci
 
-Susun Potongan: Seret dan letakkan potongan-potongan gambar ke posisi yang tepat untuk membentuk gambar utuh.​
-repository.uksw.edu
+| No | Nama Puzzle       | Deskripsi Singkat                 | Link Puzzle                                         |
+|----|-------------------|-----------------------------------|----------------------------------------------------|
+| 1  | Kelinci Lucu      | Puzzle 9 keping untuk pemula      | [🧩 Mainkan Sekarang](https://puzzel.org/id/jigsaw/play?p=-OOQuToeAJjZat_wx2Tn)|
 
-Selesaikan Puzzle: Setelah semua potongan tersusun dengan benar, puzzle selesai.​
 
-Jika Anda ingin membuat puzzle serupa, Anda dapat menggunakan fitur "Create Jigsaw Puzzle" di Puzzel.org. Anda dapat mengunggah gambar sendiri, menentukan jumlah potongan, dan menambahkan fitur seperti area penyelesaian atau latar belakang gambar untuk membantu pemain. ​
-puzzel.org
-+7
-puzzel.org
-+7
-puzzel.org
-+7
+---
 
-🧠 Tips untuk Pembelajaran
-Diskusi Kelompok: Setelah menyelesaikan puzzle, lakukan diskusi kelompok untuk membahas gambar dan informasi yang terkait.​
+## 📝 Petunjuk Penggunaan
 
-Tantangan Waktu: Tambahkan elemen waktu untuk meningkatkan tantangan dan keterlibatan siswa.​
-repository.uksw.edu
+1. Klik link puzzle yang ingin dimainkan.
+2. Seret dan susun potongan puzzle hingga membentuk gambar kelinci utuh.
+3. Siswa dapat bekerja sendiri atau berpasangan.
+4. Guru dapat memberi waktu maksimal untuk menyelesaikan.
 
-Variasi Gambar: Gunakan berbagai gambar yang relevan dengan materi pelajaran untuk memperkaya pengalaman belajar.
+---
+
+## 🌟 Tips untuk Guru & Orang Tua
+
+- Diskusikan tentang habitat, makanan, dan kebiasaan kelinci setelah bermain.
+- Ajak siswa menggambar kelinci dari puzzle yang sudah mereka selesaikan.
+- Dorong kerja sama dan berbagi ketika bermain secara berpasangan.
+
+---
+
+**Selamat bermain dan belajar! 🐇**
+
+> Proyek ini adalah bagian dari pembelajaran tematik "Makhluk Hidup dan Lingkungannya".
