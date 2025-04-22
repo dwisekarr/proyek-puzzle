@@ -14,11 +14,9 @@ Selamat datang di proyek pembelajaran menyenangkan bersama puzzle jigsaw bertema
 
 ---
 
-## 🖼️ Puzzle Jigsaw Kelinci
+## 🖼️Link Puzzle Jigsaw Kelinci
 
-| No | Nama Puzzle       | Deskripsi Singkat                 | Link Puzzle                                         |
-|----|-------------------|-----------------------------------|----------------------------------------------------|
-| 1  | Kelinci Lucu      | Puzzle 9 keping untuk pemula      | [🧩 Mainkan Sekarang](https://puzzel.org/id/jigsaw/play?p=-OOQuToeAJjZat_wx2Tn)|
+https://puzzel.org/id/jigsaw/play?p=-OOQuToeAJjZat_wx2Tn
 
 
 ---
